@@ -1,12 +1,21 @@
 {
-  "name": "JPGExifReader",
+  "name": "Cluj.Exif",
   "title": "JPG EXIF Reader",
-  "version": "1.0.0-*",
+  "version": "1.0.0.5",
   "authors": [
     "Marty Zhou"
   ],
   "buildOptions": {
-    "debugType": "portable"
+    "debugType": "portable",
+    "compile": {
+      "include": ["src"]
+    }
+  },
+  "publishOptions": {},
+  "packOptions": {
+    "owners": [
+      "Marty Zhou"
+    ]
   },
   "dependencies": {
     "xunit": {
