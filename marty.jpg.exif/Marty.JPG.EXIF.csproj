@@ -5,9 +5,22 @@
     <AssemblyName>Marty.JPG.EXIF</AssemblyName>
     <RootNamespace>Marty.JPG.EXIF</RootNamespace>
     <Description>Get exif metadata from jpg images.</Description>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>Marty.JPG.EXIF</PackageId>
+    <Authors>Marty Zhou</Authors>
+    <Owners>Marty Zhou</Owners>
+    <PackageProjectUrl>https://github.com/MartyZhou/jpg-exif</PackageProjectUrl>
+    <Summary>Get exif metadata from jpg images.</Summary>
+    <Title>Marty.JPG.EXIF</Title>
+    <PackageVersion>1.0</PackageVersion>
+    <DevelopmentDependency>true</DevelopmentDependency>
+    <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Common\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
   </ItemGroup>
 </Project>

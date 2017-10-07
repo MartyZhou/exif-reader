@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{B6B05A38-A837-4386-9D7F-DCDD5C947598}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="marty.jpg.exif.test/ExifReaderTest.cs">
+﻿<Properties StartupConfiguration="{B6B05A38-A837-4386-9D7F-DCDD5C947598}|Default">
+  <MonoDevelop.Ide.ItemProperties.marty.jpg.exif.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="marty.jpg.exif/ExifReader.cs">
     <Files>
       <File FileName="marty.jpg.exif/Common/TagId.cs" Line="1" Column="1" />
       <File FileName="marty.jpg.exif/Common/TagType.cs" Line="1" Column="1" />
       <File FileName="marty.jpg.exif/Common/Endian.cs" Line="1" Column="1" />
       <File FileName="marty.jpg.exif/Common/MetadataFormat.cs" Line="9" Column="1" />
-      <File FileName="marty.jpg.exif/Common/ExifMetadata.cs" Line="17" Column="1" />
-      <File FileName="marty.jpg.exif/ExifReader.cs" Line="16" Column="26" />
-      <File FileName="marty.jpg.exif.test/ExifReaderTest.cs" Line="13" Column="41" />
-      <File FileName="marty.jpg.exif.test/.DS_Store" Line="1" Column="1" />
+      <File FileName="marty.jpg.exif/Common/ExifMetadata.cs" Line="16" Column="1" />
+      <File FileName="marty.jpg.exif/ExifReader.cs" Line="73" Column="25" />
+      <File FileName="marty.jpg.exif.test/ExifReaderTest.cs" Line="15" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
