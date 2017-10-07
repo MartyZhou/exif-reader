@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marty.JPG.EXIF", "marty.jpg.exif\marty.jpg.exif.csproj", "{022D82E5-0295-4586-8556-72890F7646B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marty.JPG.EXIF.Test", "marty.jpg.exif.test\marty.jpg.exif.test.csproj", "{B6B05A38-A837-4386-9D7F-DCDD5C947598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022D82E5-0295-4586-8556-72890F7646B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022D82E5-0295-4586-8556-72890F7646B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022D82E5-0295-4586-8556-72890F7646B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022D82E5-0295-4586-8556-72890F7646B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B05A38-A837-4386-9D7F-DCDD5C947598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B05A38-A837-4386-9D7F-DCDD5C947598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B05A38-A837-4386-9D7F-DCDD5C947598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B05A38-A837-4386-9D7F-DCDD5C947598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+	EndGlobalSection
+EndGlobal

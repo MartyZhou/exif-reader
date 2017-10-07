@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Marty.JPG.EXIF</AssemblyName>
+    <RootNamespace>Marty.JPG.EXIF</RootNamespace>
+    <Description>Get exif metadata from jpg images.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\" />
+  </ItemGroup>
+</Project>
